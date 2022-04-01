@@ -1,0 +1,33 @@
+body {
+    font-family: "Roboto", Sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Roboto";
+}
+
+h2 {
+    color: #3046C5;
+}
+
+header h2 {
+    color: #CEC8FF;
+}
+
+footer {
+    background-image: linear-gradient(to right, #002366, #002366, white, #FFFF00);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #002366, #002366, #FFFF00);
+    color: white;
+}
+
+.row-content {
+    padding: 20px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
