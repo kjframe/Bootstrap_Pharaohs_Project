@@ -48,3 +48,7 @@ a, a:hover {
 .carousel {
     border: solid #000080;
 }
+
+#pharaohModal .modal-header {
+    background-color: #000080;
+    color: yellow; }
