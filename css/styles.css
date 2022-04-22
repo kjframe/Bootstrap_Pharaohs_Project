@@ -2,6 +2,10 @@ body {
     font-family: "Roboto", Sans-serif;
 }
 
+bg-light {
+    background-color: yellow;
+}
+
 h1, h2, h3 {
     font-family: "Roboto";
 }
@@ -15,16 +19,9 @@ header h2 {
 }
 
 .site-footer {
-    background-image: linear-gradient(to right, yellow, white);
+    background-color: yellow;
     padding: 20px 0;
 }
-
-.jumbotron {
-    background-image: url("../img/Memphis_Pharaohs_Text.png");
-    background-size: 20% 100%;
-    background-position: center;
-    margin-bottom: 0;
-  }
 
 .row-content {
     padding: 20px 0;
@@ -52,3 +49,4 @@ a, a:hover {
 #pharaohModal .modal-header {
     background-color: #000080;
     color: yellow; }
+
