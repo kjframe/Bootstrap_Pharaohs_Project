@@ -21,6 +21,7 @@ header h2 {
 .site-footer {
     background-color: yellow;
     padding: 20px 0;
+    border: solid black;
 }
 
 .row-content {
@@ -31,6 +32,7 @@ header h2 {
 
 .navbar {
     background-color: #000080;
+    border: solid yellow;
 }
 
 a, a:hover {
@@ -50,3 +52,23 @@ a, a:hover {
     background-color: #000080;
     color: yellow; }
 
+#eye {
+    background-color: #000080;
+    border: solid black;
+}
+#bird {
+    background-color: #000080;
+    border: solid black;
+}
+#mem {
+    background-color: yellow;
+    border: solid black;
+}
+#alt {
+    background-color: yellow;
+    border: solid black;
+}
+#text {
+    background-color: yellow;
+    border: solid black;
+}
